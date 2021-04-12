@@ -1,3 +1,6 @@
 Hi ra ravi how are you 
 
 this is basic git 
+
+
+edting file for second commint 
